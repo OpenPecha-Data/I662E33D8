@@ -1,25 +1,28 @@
-id: opecha:P006987
+id: P006987
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG17449
   title: གསུང་འབུམ། རྒྱལ་མཚན་དཔལ།
-  volume:
+  author: ''
+  volumes:
     b25b078529f84f87ac869fac72b51b4b:
       image_group_id: I1KG18247
       title: Volume 1 of
       volume_number: 1
       total_pages: 586
+      base_file: v001.txt
     a24f13dd5fdd480681581fb58c62e6d7:
       image_group_id: I1KG18248
       title: Volume 2 of
       volume_number: 2
       total_pages: 654
+      base_file: v002.txt
     4555747f93544c9db859e6adeb32f13a:
       image_group_id: I1KG18249
       title: Volume 3 of
       volume_number: 3
       total_pages: 562
-  author: ''
+      base_file: v003.txt
 ebook_metadata:
   title: གསུང་འབུམ། རྒྱལ་མཚན་དཔལ།
   author: ''
