@@ -5,21 +5,24 @@ source_metadata:
   title: གསུང་འབུམ། རྒྱལ་མཚན་དཔལ།
   author: ''
   volumes:
-    5c8635dd69464b18a97505f136b80efe:
+    b25b078529f84f87ac869fac72b51b4b:
       image_group_id: I1KG18247
-      title: ''
+      title: Volume 1 of
       volume_number: 1
       total_pages: 586
-    07439e720ebe41489efb2df5e75f31ff:
+      base_file: v001.txt
+    a24f13dd5fdd480681581fb58c62e6d7:
       image_group_id: I1KG18248
-      title: ''
+      title: Volume 2 of
       volume_number: 2
       total_pages: 654
-    d338a88df8cd4320a22d9388ad563185:
+      base_file: v002.txt
+    4555747f93544c9db859e6adeb32f13a:
       image_group_id: I1KG18249
-      title: ''
+      title: Volume 3 of
       volume_number: 3
       total_pages: 562
+      base_file: v003.txt
 ebook_metadata:
   title: གསུང་འབུམ། རྒྱལ་མཚན་དཔལ།
   author: ''
